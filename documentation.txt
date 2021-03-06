@@ -1,0 +1,4 @@
+The benchmarks we have chosen as a team are Stream, Linpack, Nuttcp, and MySQL.
+
+The stream benchmark is basically “a simple synthetic benchmark program that measures sustainable memory bandwidth when performing simple operations”. Along with this, it also computes corresponding computation rates for simple vector kernels. It is also intended to measure the bandwidth from main memory. Stream is pretty much easy to run. However, there are many variations in OS’s and hardware, so it is difficult to comprehend. The Stream benchmark is run through C Language or through FORTRAN.
+
